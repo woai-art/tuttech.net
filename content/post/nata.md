@@ -9,8 +9,6 @@ draft: false
 # Вот мое видео
 
 <video width="640" height="640" controls>
-    {{< video src="/videos/nata.webm" width="640" height="640" >}}
-    <!-- <source src="http://localhost:1313/videos/nata.webm" type="video/webm"> -->
-    <!-- <source src="http://localhost:1313/videos/nata.mp4" type="video/mp4"> -->
+    <source src="/videos/nata.mp4" type="video/mp4">
     Ваш браузер не поддерживает тег video.
 </video>
