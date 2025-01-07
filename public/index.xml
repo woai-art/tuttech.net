@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог on TUTTECH</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Блог on TUTTECH</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math Support</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Tue, 07 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;p&gt;Inline math: \( a^2 + b^2 = c^2 \)&lt;br&gt;&#xA;Block math:&#xA;$$&#xA;E = mc^2&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Мой пример поста с видео</title>
+      <link>http://localhost:1313/post/nata/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/nata/</guid>
+      <description>&lt;h1 id=&#34;заголовок-поста&#34;&gt;Заголовок поста&lt;/h1&gt;&#xA;&lt;p&gt;Содержание поста.&lt;/p&gt;&#xA;&lt;h1 id=&#34;вот-мое-видео&#34;&gt;Вот мое видео&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/readme/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Hello World!&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

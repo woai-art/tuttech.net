@@ -1,0 +1,4 @@
+baseURL = 'https://tuttech.net/'
+languageCode = 'en-us'
+title = 'TUTTECH'
+theme = 'github-style'
